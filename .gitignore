@@ -1,4 +1,5 @@
-*.pth
 researchenv
 data
 feature/result
+*.mid
+*.midi
